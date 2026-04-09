@@ -9,17 +9,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PiiuKa/ict-projects-cicd-g12.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PiiuKa/ict-projects-cicd-g12/issues"
-  },
-  "homepage": "/",
+  "homepage": "https://PiiuKa.github.io/ict-projects-cicd-g12",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@testing-library/jest-dom": "^6.6.3",
